@@ -11,3 +11,5 @@ function signUpUser(name: string, email: string, password: string) {
 addTwo(5);
 getUpper("djibuji");
 signUpUser("baptizo", "kibwa", "kalisa");
+
+export {};
